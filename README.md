@@ -1,4 +1,4 @@
-# SQL_PowerBI_Project4__Pizza_Sales
+# SQL_PowerBI_Project4__Pizza_Sales (Data Analysis Project)
 
 ### Problem Statement: 
 You are a data analyst for a Pizza company that is looking to gain insights on the past year performance. Your task is to analyze the following metrics and create a Dashboard that clearly highlights the requirements below. Complete the project using SQL and Power BI.
